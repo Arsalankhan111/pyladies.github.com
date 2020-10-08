@@ -1,5 +1,5 @@
 ========================
-pyladies.com site setup
+pyladies.com site setup (an amazing project)
 ========================
 
 :date: 2012-05-04 20:38
